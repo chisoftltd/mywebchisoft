@@ -18,3 +18,11 @@ C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\st
 C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.dll
 C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.pdb
 C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.genruntimeconfig.cache
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.RazorAssemblyInfo.cache
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.RazorAssemblyInfo.cs
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.TagHelpers.input.cache
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.TagHelpers.output.cache
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.RazorCoreGenerate.cache
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\Razor\Pages\index.cshtml.g.cs
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.RazorTargetAssemblyInfo.cs
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.Views.pdb
