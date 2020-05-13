@@ -26,3 +26,6 @@ C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\my
 C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\Razor\Pages\index.cshtml.g.cs
 C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.RazorTargetAssemblyInfo.cs
 C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.Views.pdb
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\bin\Debug\netcoreapp3.1\mywebchisoft.Views.dll
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\bin\Debug\netcoreapp3.1\mywebchisoft.Views.pdb
+C:\Users\chiso\source\repos\mywebchisoft\mywebchisoft\obj\Debug\netcoreapp3.1\mywebchisoft.csproj.CopyComplete

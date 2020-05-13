@@ -16,7 +16,7 @@ namespace mywebchisoft
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddMvc();
+            services.AddMvc();
             //services.AddRouting();
         }
 
@@ -29,7 +29,16 @@ namespace mywebchisoft
             }
 
             //app.UseMvc();
-            app.UseRouting();
+            //app.UseRouting();
+
+        app.UseStaticFiles();
+        app.UseRouting();
+        app.UseCors();
+
+        //app.UseEndpoints(endpoints =>
+        //{
+            //endpoints.MapControllerRoute("default", "{controller=Home}/{action=Index}");
+        //});
 
             app.UseEndpoints(endpoints =>
             {
@@ -38,6 +47,11 @@ namespace mywebchisoft
                     await context.Response.WriteAsync("<b>Hello ChisoftMedia!</b>");
                 });
             });
+
+            //app.Run(async (context) => 
+            //{
+                //await context.Response.WriteAsync("<b>Hello ChisoftMedia!</b>");
+            //});
         }
     }
 }
