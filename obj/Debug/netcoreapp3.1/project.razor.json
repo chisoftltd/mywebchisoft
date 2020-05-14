@@ -20524,6 +20524,11 @@
       "FilePath": "c:\\Users\\chiso\\source\\repos\\mywebchisoft\\mywebchisoft\\Pages\\index.cshtml",
       "TargetPath": "Pages\\index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\chiso\\source\\repos\\mywebchisoft\\mywebchisoft\\Pages\\chisoft\\44.cshtml",
+      "TargetPath": "Pages\\chisoft\\44.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
